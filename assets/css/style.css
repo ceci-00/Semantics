@@ -10,8 +10,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
 /* Style for the header section */
-.header {
+#top {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +20,19 @@ body {
 }
 
 /* Style for the main heading in the header section */
-.header h1 {
+#top h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Style for the span with class 'seo' inside the header h1 */
-.header h1 .seo {
+
+/* Style for the navigation section in the header */
+#top h1 .seo {
     color: #d9dcd6;
 }
 
 /* Style for the navigation section in the header */
-.header div {
+#top section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,13 +40,15 @@ body {
     font-size: 20px;
 }
 
+
+
 /* Style for the unordered list in the navigation section */
-.header div ul {
+#top section ul {
     list-style-type: none;
 }
 
 /* Style for list items in the navigation section */
-header div ul li {
+#top section ul li {
     display: inline-block;
     margin-left: 25px;
 }
