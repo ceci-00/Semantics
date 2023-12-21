@@ -5,37 +5,37 @@
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
+/*sets background for body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*header section style*/
 .header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*style for first heading in header section*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*sets color for h1 in header*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*style for section located inside header*/
 .header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
 }
-
+/*style for unordered list section inside header*/
 .header section ul {
     list-style-type: none;
 }
-
+/*style for unordered list items in header*/
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
