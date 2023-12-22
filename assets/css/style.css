@@ -1,6 +1,5 @@
 /*style applied to whole webpage*/
 * {
-    border-sizing: border-box;
     padding: 0;
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -71,7 +70,7 @@ p {
     margin-left: 20px;
     max-height: 30px;
 }
-
+/*style for elements in article elements*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -81,46 +80,46 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*style for image in search-engine-optimization image*/
 .search-engine-optimization img {
     max-height: 200px;
     float: left;
     margin-right: 30px;
 }
-
+/*style for online-reputation image*/
 .online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 30px;
 }
-
+/*style for social-media-marketing image*/
 .social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 30px;
 }
-
+/*style for search-engine-optimization header*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*style for online-reputation-management header*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*style for social-media-marketing header*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*style for 1st and 3rd paragragh in main element*/
 .search-engine-optimization p,
 .social-media-marketing p {
     text-align: left;
     margin: 30px;
 }
-
+/*style for aside element*/
 .benefits {
     margin-right: 20px;
     padding: 15px;
@@ -130,45 +129,45 @@ p {
     height: 100%;
     background-color: #2589bd;
 }
-
+/*style for each class element located in aside parent element*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 14px;
     color: #ffffff;
 }
-
+/*style for headings for each class element located in aside*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*style for 1st image in aside*/
 .benefit-lead img {
     display: block;
     margin: 5px auto;
     max-width: 150px;
 }
-
+/*style for 2nd image in aside*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*style for 3rd image in aside*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*style for footer of page*/
 .footer {
     padding: 30px;
     clear: both;
     text-align: center;
 }
-
+/*style for h2 located in footer element*/
 .footer h2 {
     font-size: 20px;
 }
