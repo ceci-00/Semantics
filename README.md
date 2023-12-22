@@ -9,7 +9,6 @@ Knowledge of semantic structure elements was acquired while completing this webp
 
 ## Installation
 ```
-```
 The following image shows the web application's appearance and functionality:
 
 Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
@@ -25,3 +24,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 https://bootcampspot.instructure.com/courses/4828/pages
 
 https://github.com/coding-boot-camp/urban-octo-telegram/tree/main/Develop
+
+## License
+```
