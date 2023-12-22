@@ -1,29 +1,30 @@
 /*style applied to whole webpage*/
 * {
-    box-sizing: border-box;
+    border-sizing: border-box;
     padding: 0;
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 /*background color for body*/
 body {
     background-color: #d9dcd6;
 }
+
 /*header section style*/
 .header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*style for first heading in header section*/
+
+/*style for heading in header element*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-/*color for h1 in header*/
-.header h1 .seo {
     color: #d9dcd6;
 }
+
 /*style for section located inside header*/
 .header nav {
     padding-top: 15px;
@@ -31,41 +32,44 @@ body {
     float: right;
     font-size: 20px;
 }
+
 /*style for unordered list nav section inside header*/
 .header nav ul {
     list-style-type: none;
 }
+
 /*style for unordered list items in header*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 /*style for anchor elements*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*style for all paragraph elements*/ 
+
+/*style for all paragraph elements*/
 p {
     font-size: 16px;
 }
-/*style for image in first section element*/
+
+/*style for large image in section element*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-*/location for 1st & 3rd image in section inside article element*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-*/location for 2nd image section inside article element*/
-.float-right {
-    float: right;
-    margin-left: 25px;
+/*style for content located inside the main element*/
+.content {
+    width: 70%;
+    display: inline-block;
+    margin-left: 20px;
+    max-height: 30px;
 }
 
 .search-engine-optimization,
@@ -73,39 +77,53 @@ p {
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 228px;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .search-engine-optimization img {
     max-height: 200px;
+    float: left;
+    margin-right: 30px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    float: right;
+    margin-left: 30px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 30px;
 }
 
-#search-engine-optimization h2,
-.online-reputation-management h2,
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-article {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+.search-engine-optimization p,
+.social-media-marketing p {
+    text-align: left;
+    margin: 30px;
 }
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 15px;
     clear: both;
     float: right;
     width: 20%;
@@ -113,7 +131,9 @@ article {
     background-color: #2589bd;
 }
 
-.benefit-lead,.benefit-brand,.benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 14px;
     color: #ffffff;
 }
