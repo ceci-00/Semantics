@@ -15,7 +15,7 @@ Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
 ```
 ## Usage
 ```
-![The webpage includes the following: navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Purgative-Stage.png)
+![The webpage includes a navigation bar, header image, and cards with images and text at the bottom of the page.](.assets/images/Purgative-Stage.png)
 ```
 ## Credits
 ```
