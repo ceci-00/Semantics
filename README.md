@@ -32,5 +32,4 @@ The purpose of this is to make the marketing agency's website effectively meet a
 
 Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
 
-![The webpage includes the following: navigation bar, header image, and cards with images and text at the bottom of the page.]
-(assets/images/Purgative-Stage.png)
+![The webpage includes the following: navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Purgative-Stage.png)
