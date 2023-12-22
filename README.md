@@ -14,7 +14,6 @@ The following image shows the web application's appearance and functionality:
 Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
 ```
 ## Usage
-```
 ![The webpage includes a navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Purgative-Stage.png)
 
 ```
