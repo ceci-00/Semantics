@@ -161,9 +161,15 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+.benefit-lead p,
+.benefit-brand p,
+.benefit-cost p {
+    text-align: center;
+}
 /*style for footer of page*/
 .footer {
-    padding: 30px;
+    padding: 28px;
     clear: both;
     text-align: center;
 }
