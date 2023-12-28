@@ -16,7 +16,7 @@ Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
 ## Usage
 ![The webpage includes a navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Purgative-Stage.png)
 
-```
+
 ## Credits
 ```
 https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -27,7 +27,7 @@ https://github.com/coding-boot-camp/urban-octo-telegram/tree/main/Develop
 ```
 
 ## License
-```
+
 MIT License
 
 Copyright (c) 2023 ceci-00
