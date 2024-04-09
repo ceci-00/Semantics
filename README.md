@@ -11,10 +11,10 @@ Knowledge of semantic structure elements was acquired while completing this webp
 ```
 The following image shows the web application's appearance and functionality:
 
-Visit the live URL here: https://ceci-00.github.io/Purgative-Stage/
+Visit the live URL here: https://ceci-00.github.io/Semantics/
 ```
 ## Usage
-![The webpage includes a navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Purgative-Stage.png)
+![The webpage includes a navigation bar, header image, and cards with images and text at the bottom of the page.](./assets/images/Semantics.png)
 
 
 ## Credits
